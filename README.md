@@ -2,7 +2,16 @@
 
 **Senior Software Engineer | PHP • Java Spring Boot • AWS**
 
-📍 Lahore, Punjab, Pakistan | 📞 +92 340 0792449 | 📧 alizaib.azr@gmail.com | 🔗 linkedin.com/in/ali-zaib-041977161 | 🔗 https://www.toolshubkit.com
+📍 Lahore, Punjab, Pakistan | 📞 +92 340 0792449 | 📧 alizaib.azr@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/ali-zaib-041977161) | 🌐 [toolshubkit.com](https://www.toolshubkit.com)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -64,6 +73,42 @@ Senior Backend Developer with 6+ years of hands-on expertise designing, developi
 - Implemented daemon processes using Supervisord to monitor blockchain nodes and sync transaction confirmations with the application database in real-time
 - Developed API rate limiting and DDoS protection using Cloudflare and custom middleware, preventing unauthorized access and ensuring platform stability
 - Created comprehensive API documentation with Swagger/OpenAPI specification, reducing API integration time for partners by 30%
+
+---
+
+## Featured Projects
+
+### 🧰 ToolsHubKit — Online Utility Toolkit
+**Personal Project** | 🌐 [toolshubkit.com](https://www.toolshubkit.com)
+
+A web platform offering a collection of everyday developer and productivity utilities, built and maintained end-to-end. Demonstrates full-stack ownership from backend APIs to frontend UI and cloud deployment.
+
+- **Stack:** PHP / Laravel, JavaScript, MySQL, AWS
+- **Focus:** clean REST APIs, responsive UI, and performance-optimized delivery
+
+### ⚡ Distributed Invoice Sequencing System
+**The Entertainer** | Redis · Spring Boot
+
+High-throughput financial sequencing service handling **2,000+ TPS with <50ms latency**, enabling real-time invoice generation at scale without collisions across a distributed environment.
+
+- **Stack:** Java, Spring Boot, Redis, MySQL
+- **Impact:** reliable real-time transaction processing at scale
+
+### 📡 Event-Driven Notification Platform
+**Jeeny / The Entertainer** | AWS SQS/SNS · ActiveMQ
+
+Event-streaming pipeline processing **500K+ daily events at 99.9% delivery reliability**, powering real-time ride-lifecycle tracking and operational analytics.
+
+- **Stack:** Spring Boot, AWS SQS/SNS, ActiveMQ
+- **Impact:** actionable real-time insights for operations and marketing teams
+
+### 🛡️ Multi-Tenant GDPR/CCPA Compliance Platform
+**Seers Digital** | Laravel · PostgreSQL
+
+Privacy and consent management platform serving **10,000+ domains** with automated Data Subject Request (DSR) processing, audit logging, and compliance reporting.
+
+- **Stack:** PHP, Laravel, PostgreSQL, MongoDB, AWS SQS
+- **Impact:** DSR response time cut from 5 days to 24 hours
 
 ---
 
